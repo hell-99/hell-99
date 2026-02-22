@@ -61,7 +61,7 @@ Flask-based abuse detection platform using metadata forensics to classify and fl
 
 - 📧 **Email:** tkamdar@andrew.cmu.edu
 - 💼 **LinkedIn:** [Twinkle Kamdar](https://www.linkedin.com/in/twinkle-j-kamdar-12037222a/)
-
+- 📄 **Resume:** [PDF](Twinkle Kamdar.pdf)
 ---
 
 <p align="center">
